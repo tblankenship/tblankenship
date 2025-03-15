@@ -1,8 +1,7 @@
 # Thaddeus Blankenship
 
-## Technology Leader | AWS Solutions Architect | AI & Cloud Specialist
-
-I'm a technology leader with experience architecting enterprise solutions in cloud and AI.
+## Software Architect | Cloud Solutions | AI Engineering
+I build enterprise solutions in cloud and AI, with a focus on leading teams and solving complex technical challenges.
 
 ### 🚀 Current Projects
 
