@@ -21,11 +21,21 @@ TBD
 - **AWS**: Sr. Solutions Architect
 - **Studio**: Engineering Manager
 
-### ⚡ Technologies
-- Cloud: AWS, Azure, Infrastructure as Code
-- Languages: TypeScript, Python, JavaScript  
-- Frameworks: React, Next.js, Vue, Electron, Expo
-- AI/ML: OpenAI, RAG Systems
+### 🛠️ Skills
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 📚 Currently Learning
+- Chasing the latest trends in LLMs and agentic architectures
+- The art of golden data records
+- Next.js + tRPC
+- Building RAG systems that actually work outside of demo environments
 
 ### 📫 Connect
 - [LinkedIn](https://linkedin.com/in/thaddeusb)
