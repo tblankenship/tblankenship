@@ -1,7 +1,7 @@
 # Thaddeus Blankenship
 
-## Software Architect | Cloud Solutions | AI Engineering
-I build enterprise solutions in cloud and AI, with a focus on leading teams and solving complex technical challenges.
+## Software Engineer | Cloud Solutions Architect
+I'm a product-focused software engineer. I also lead teams, and enjoy solving complex technical challenges.
 
 ### 🚀 Current Projects
 
