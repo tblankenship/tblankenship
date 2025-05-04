@@ -16,7 +16,7 @@ TBD
 - **Insight Bible**: An Expo app integrating AI and the Bible (Next.js, Expo, Python)
 
 ### 💼 Professional Background
-- **🔮 Pocus:**: Product Engineering (Current)
+- **🔮 Pocus**: Product Engineering (Current)
 - **Valent Partners**: Principal
 - **AWS**: Sr. Solutions Architect
 - **Studio**: Engineering Manager
